@@ -11,14 +11,14 @@ import { EventComponent } from './event/event.component';
 import { UpdateComponent } from './update/update.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     TableComponent,
     EventComponent,
-    UpdateComponent
-    
-    
+    UpdateComponent,
+
   ],
   imports: [
     BrowserModule,
